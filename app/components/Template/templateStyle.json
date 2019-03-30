@@ -1,0 +1,9 @@
+export default styles = {
+  image: {
+    flexGrow:1,
+    height:null,
+    width:null,
+    alignItems: 'center',
+    justifyContent:'center',
+  }
+};
